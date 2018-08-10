@@ -1,0 +1,11 @@
+C:\Users\Sam\Source\Repos\Madlib\Madlib\bin\Debug\netcoreapp2.1\Madlib.deps.json
+C:\Users\Sam\Source\Repos\Madlib\Madlib\bin\Debug\netcoreapp2.1\Madlib.runtimeconfig.json
+C:\Users\Sam\Source\Repos\Madlib\Madlib\bin\Debug\netcoreapp2.1\Madlib.runtimeconfig.dev.json
+C:\Users\Sam\Source\Repos\Madlib\Madlib\bin\Debug\netcoreapp2.1\Madlib.dll
+C:\Users\Sam\Source\Repos\Madlib\Madlib\bin\Debug\netcoreapp2.1\Madlib.pdb
+C:\Users\Sam\Source\Repos\Madlib\Madlib\obj\Debug\netcoreapp2.1\Madlib.csprojAssemblyReference.cache
+C:\Users\Sam\Source\Repos\Madlib\Madlib\obj\Debug\netcoreapp2.1\Madlib.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Source\Repos\Madlib\Madlib\obj\Debug\netcoreapp2.1\Madlib.AssemblyInfoInputs.cache
+C:\Users\Sam\Source\Repos\Madlib\Madlib\obj\Debug\netcoreapp2.1\Madlib.AssemblyInfo.cs
+C:\Users\Sam\Source\Repos\Madlib\Madlib\obj\Debug\netcoreapp2.1\Madlib.dll
+C:\Users\Sam\Source\Repos\Madlib\Madlib\obj\Debug\netcoreapp2.1\Madlib.pdb
