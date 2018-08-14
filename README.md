@@ -15,9 +15,13 @@ If you are feeling generous feel free to support me at [Patreon](https://www.pat
 - [x] Release of Version 1.0.1. of Wishes
 
 # Upcoming Contributions
+- [ ] Release of Version 1.0.2. of Wishes
+
+
+# Services
 C# | Angular
 -------------|--------------
 Web API | Web API
-- [ ] REST Services | - [ ] SOAP Services
+REST Services | SOAP Services
 
  
