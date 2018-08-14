@@ -18,6 +18,6 @@ If you are feeling generous feel free to support me at [Patreon](https://www.pat
 C# | Angular
 -------------|--------------
 Web API | Web API
-- [ ] REST Services |- [ ] SOAP Services
+- [ ] REST Services | - [ ] SOAP Services
 
  
