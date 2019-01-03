@@ -5,6 +5,7 @@ There are tons of ways to build your applications, in each of my applications I 
 * [Election App](https://martinfitzjerl.github.io/Election/)
 * [Wishes](https://github.com/martinfitzjerl/Applications)
 * [Madlib](https://github.com/martinfitzjerl/Applications)
+* [FewNickels](https://qk7qvvxm3q.codesandbox.io/)
 
 # Text-based Adventure
 Relax and enjoy one of my newest console applications for free, it is a text adventure game I developed! Download [Wishes](https://github.com/martinfitzjerl/Applications)
@@ -14,13 +15,14 @@ If you are feeling generous feel free to support me at [Patreon](https://www.pat
 
 # Latest Updates
 - [x] Release of Version 1.0.1. of Wishes
+- [x] Agricultural System login
 
 # Upcoming Contributions
 - [ ] Release of Version 1.0.2. of Wishes
 
 
 # Services
-C# | Angular
+C# | Angular | React & Redux
 -------------|--------------
 Web API | Web API
 REST Services | SOAP Services
